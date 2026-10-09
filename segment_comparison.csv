@@ -1,0 +1,4 @@
+customer_loyalty,customer_count,avg_order_size,reorder_rate,avg_days_since_prior_order
+Loyal,7240,10.2015,0.6923,7.5105
+Regular,10926,10.0515,0.4958,14.6604
+New,12765,9.7125,0.2998,18.6257

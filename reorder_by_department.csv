@@ -1,0 +1,22 @@
+department,reordered_rate,total_orders
+"personal care",0.3212,68442
+pantry,0.3491,287199
+international,0.3687,41177
+household,0.4002,110903
+other,0.4082,5580
+missing,0.4141,10775
+"canned goods",0.4564,161619
+"dry goods pasta",0.4632,131274
+frozen,0.5432,337549
+bulk,0.5626,5126
+breakfast,0.5638,108451
+alcohol,0.5670,21853
+"meat seafood",0.5706,109069
+snacks,0.5755,435497
+babies,0.5909,66621
+pets,0.5943,14213
+deli,0.6114,159244
+bakery,0.6292,177496
+produce,0.6506,1435026
+beverages,0.6545,408923
+"dairy eggs",0.6721,823182
