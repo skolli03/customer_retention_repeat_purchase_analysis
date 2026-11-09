@@ -32,7 +32,7 @@ A business case study on repeat purchasing in online grocery delivery. SQL is us
 - **Sampling:** random 15% of users (seed 42 for reproducibility), done in Python (pandas) before loading into MySQL
 - **Sampled by user, not by order,** so each customer's full order history stays intact
 - **Prior orders only,** since those are the orders with product-level data
-- **Result:** [X] orders, about [X]M order-product rows, 30,931 users
+- **Result:** 487077 orders, 30,931 users
 - **Chunked filtering:** the order-product file was filtered 1M rows at a time to keep memory use low
 - **Blank values:** missing `days_since_prior_order` values (first orders) were loaded as `NULL`
 - **Validation:** row counts checked against the source files, and orphan-row checks run on every join
